@@ -1,109 +1,107 @@
-<p align="center">
-  <p align="center">
-   <img width="150" height="150" src="packages/assets/images/AppLogo.png" alt="Logo">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  </p><p align="center" dir="auto">
+   <a target="_blank" rel="noopener noreferrer" href="/spacedriveapp/spacedrive/blob/main/packages/assets/images/AppLogo.png"><img width="150" height="150" src="/spacedriveapp/spacedrive/raw/main/packages/assets/images/AppLogo.png" alt="标识" style="max-width: 100%;"></a>
   </p>
-	<h1 align="center"><b>Spacedrive</b></h1>
-	<p align="center">
-		A file explorer from the future.
-    <br />
-    <a href="https://spacedrive.com"><strong>spacedrive.com »</strong></a>
-    <br />
-    <br />
-    <b>Download for </b>
-    macOS (<a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64">Apple Silicon</a> |
-    <a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64">Intel</a>) ·
-		<a href="https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64">Windows</a> ·
-		<a href="https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64">Linux</a> ·
-		iOS ·
-		Android
-    <br />
-    <i>~ Links for iOS & Android will be added once a release is available. ~</i>
+	<h1 align="center" tabindex="-1" dir="auto"><a id="user-content-spacedrive" class="anchor" aria-hidden="true" tabindex="-1" href="#spacedrive"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">太空驾驶</font></font></b></h1>
+	<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+		来自未来的文件浏览器。
+    </font></font><br>
+    <a href="https://spacedrive.com" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">spacedrive.com »</font></font></strong></a>
+    <br>
+    <br>
+    <b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载适用于</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    macOS ( </font></font><a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apple Silicon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> |
+     </font></font><a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Intel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ) ·
+		 </font></font><a href="https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ·
+		 </font></font><a href="https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> · iOS · Android
+     </font></font><br>
+    <i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">~ iOS 和 Android 的链接将在发布后添加。</font><font style="vertical-align: inherit;">～</font></font></i>
   </p>
+<p dir="auto"></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spacedrive 是一个开源跨平台文件管理器，由用 Rust 编写的虚拟分布式文件系统 ( </font></font><a href="#what-is-a-vdfs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VDFS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ) 提供支持。
+</font></font><br>
+<br></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新：Spacedrive 正在积极开发中，我们处于 alpha 阶段，官方版本下载中可能会丢失或禁用某些功能。</font></font></p>
+</blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将多个设备上的文件集中在一处。</font><font style="vertical-align: inherit;">从云服务到离线硬盘，Spacedrive 将您设备的存储容量和处理能力整合到一个个人分布式云中，使用起来既安全又直观。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于独立创意人士、囤积者和那些想要拥有自己数字足迹的人来说，Spacedrive 提供了无与伦比的免费文件管理体验。</font></font></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/spacedriveapp/spacedrive/blob/main/apps/landing/public/github.webp" class=""><img src="/spacedriveapp/spacedrive/raw/main/apps/landing/public/github.webp" alt="应用截图" style="max-width: 100%;"></a>
+  <br>
+  <br>
+  <a href="https://discord.gg/gTaF2Z44f5" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/1c478c216c1e4bc81e38b7d17aaa7717948218b5e0e53e41f9822edaee8a2fcc/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3934393039303935333439373536373331323f6c6162656c3d446973636f726426636f6c6f723d353836354632" data-canonical-src="https://img.shields.io/discord/949090953497567312?label=Discord&amp;color=5865F2" style="max-width: 100%;">
+  </a>
+  <a href="https://x.com/spacedriveapp" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/b35efa1022f4ed8b58c7d49221c3b44297126c720e16c90635ac5ae787e7577a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c61636b3f6c6f676f3d78266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-black?logo=x&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://instagram.com/spacedriveapp" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/d4f1b32fa0e49ff631f947d0079514b07ad1db6ca1d739b0dd8de0b777e38783/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f6c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ac37b8bc3f10e67372fac8cb5881827fa4e390dd1e780c6390bb623d8be32531/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4c6963656e6365266d6573736167653d4147504c253230763326636f6c6f723d303030" data-canonical-src="https://img.shields.io/static/v1?label=Licence&amp;message=AGPL%20v3&amp;color=000" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/997d45c01ad626ada4139e38fde8a6d341fee99ff3a281754d69518b32c124a5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d42756e646c656425323053697a65266d6573736167653d31362e334d4226636f6c6f723d303937344234"><img src="https://camo.githubusercontent.com/997d45c01ad626ada4139e38fde8a6d341fee99ff3a281754d69518b32c124a5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d42756e646c656425323053697a65266d6573736167653d31362e334d4226636f6c6f723d303937344234" data-canonical-src="https://img.shields.io/static/v1?label=Bundled%20Size&amp;message=16.3MB&amp;color=0974B4" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9bfc5e34bc9836fbd11135add4a3fdbd8caef41de8012d7a92dc49cbdaff92e8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5374616765266d6573736167653d416c70686126636f6c6f723d324242344142"><img src="https://camo.githubusercontent.com/9bfc5e34bc9836fbd11135add4a3fdbd8caef41de8012d7a92dc49cbdaff92e8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5374616765266d6573736167653d416c70686126636f6c6f723d324242344142" data-canonical-src="https://img.shields.io/static/v1?label=Stage&amp;message=Alpha&amp;color=2BB4AB" style="max-width: 100%;"></a>
+  <br>
 </p>
-
-Spacedrive is an open source cross-platform file manager, powered by a virtual distributed filesystem (<a href="#what-is-a-vdfs">VDFS</a>) written in Rust.
-<br/>
-<br/>
-
-> UPDATE: Spacedrive is under active development, we are in the alpha stage and some features might be missing or disabled in the official release downloads.
-
-Organize files across many devices in one place. From cloud services to offline hard drives, Spacedrive combines the storage capacity and processing power of your devices into one personal distributed cloud, that is both secure and intuitive to use.
-
-For independent creatives, hoarders and those that want to own their digital footprint, Spacedrive provides a free file management experience like no other.
-
-<p align="center">
-  <img src="apps/landing/public/github.webp" alt="App screenshot">
-  <br />
-  <br />
-  <a href="https://discord.gg/gTaF2Z44f5">
-    <img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
-  </a>
-  <a href="https://x.com/spacedriveapp">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/spacedriveapp">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
-  </a>
-  <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
-  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
-  <br />
-</p>
-
-# What is a VDFS?
-
-A VDFS (virtual distributed filesystem) is a filesystem designed to work across a variety of storage layers. With a uniform API to manipulate and access content across many devices, VDFS is not restricted to a single machine. It achieves this by maintaining a virtual index of all storage locations, synchronizing the database between clients in realtime. This implementation also uses [CAS](https://en.wikipedia.org/wiki/Content-addressable_storage) (Content-addressable storage) to uniquely identify files, while keeping record of logical file paths relative to the storage locations.
-
-The first implementation of a VDFS can be found in this UC Berkeley [paper](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-29.pdf) by Haoyuan Li. This paper describes its use for cloud computing, however the underlying concepts can be translated to open consumer software.
-
-# Motivation
-
-Many of us have multiple cloud accounts, drives that aren’t backed up and data at risk of loss. We depend on cloud services like Google Photos and iCloud, but are locked in with limited capacity and almost zero interoperability between services and operating systems. Photo albums shouldn’t be stuck in a device ecosystem, or harvested for advertising data. They should be OS agnostic, permanent and personally owned. Data we create is our legacy, that will long outlive us—open source technology is the only way to ensure we retain absolute control over the data that defines our lives, at unlimited scale.
-
-# Roadmap
-
-View a list of our planned features here: [spacedrive.com/roadmap](https://spacedrive.com/roadmap)
-
-# Developer Guide
-
-Please refer to the [contributing guide](CONTRIBUTING.md) for how to install Spacedrive from sources.
-
-# Security Policy
-
-Please refer to the [security policy](SECURITY.md) for details and information on how to responsibly report a security vulnerability or issue.
-
-# Architecture
-
-This project is using what I'm calling the **"PRRTT"** stack (Prisma, Rust, React, TypeScript, Tauri).
-
-- Prisma on the front-end? 🤯 Made possible thanks to [prisma-client-rust](https://github.com/brendonovich/prisma-client-rust), developed by [Brendonovich](https://github.com/brendonovich). Gives us access to the powerful migration CLI in development, along with the Prisma syntax for our schema. The application bundles with the Prisma query engine and codegen for a beautiful Rust API. Our lightweight migration runner is custom built for a desktop app context.
-- Tauri allows us to create a pure Rust native OS webview, without the overhead of your average Electron app. This brings the bundle size and average memory usage down dramatically. It also contributes to a more native feel, especially on macOS due to Safari's close integration with the OS.
-- We also use [rspc](https://rspc.dev) which allows us to define functions in Rust and call them on the Typescript frontend in a completely typesafe manner, so no unnecessary bugs make it into production!
-- The core (`sdcore`) is written in pure Rust.
-
-## Monorepo structure:
-
-### Apps:
-
-- `desktop`: A [Tauri](https://tauri.app) app.
-- `mobile`: A [React Native](https://reactnative.dev/) app.
-- `web`: A [React](https://reactjs.org) webapp.
-- `landing`: A [React](https://reactjs.org) app using Vite SSR & Vite pages.
-
-### Core:
-
-- `core`: The [Rust](https://www.rust-lang.org) core, referred to internally as `sdcore`. Contains filesystem, database and networking logic. Can be deployed in a variety of host applications.
-
-### Packages:
-
-- `client`: A [TypeScript](https://www.typescriptlang.org/) client library to handle dataflow via RPC between UI and the Rust core.
-- `ui`: A [React](https://reactjs.org) Shared component library.
-- `interface`: The complete user interface in React (used by apps `desktop`, `web` and `landing`)
-- `config`: `eslint` configurations (includes `eslint-config-next`, `eslint-config-prettier` and all `tsconfig.json` configs used throughout the monorepo).
-
-- `macos`: A [Swift](https://developer.apple.com/swift/) Native binary for MacOS system extensions.
-- `ios`: A [Swift](https://developer.apple.com/swift/) Native binary (planned).
-- `windows`: A [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) Native binary (planned).
-- `android`: A [Kotlin](https://kotlinlang.org/) Native binary (planned).
+<h1 tabindex="-1" dir="auto"><a id="user-content-what-is-a-vdfs" class="anchor" aria-hidden="true" tabindex="-1" href="#what-is-a-vdfs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是VDFS？</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VDFS（虚拟分布式文件系统）是一种设计用于跨各种存储层工作的文件系统。</font><font style="vertical-align: inherit;">凭借统一的 API 来跨多个设备操作和访问内容，VDFS 不再局限于单台机器。</font><font style="vertical-align: inherit;">它通过维护所有存储位置的虚拟索引、实时同步客户端之间的数据库来实现这一点。</font><font style="vertical-align: inherit;">此实现还使用</font></font><a href="https://en.wikipedia.org/wiki/Content-addressable_storage" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（内容可寻址存储）来唯一标识文件，同时记录相对于存储位置的逻辑文件路径。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VDFS 的第一个实现可以在加州大学伯克利分校</font><font style="vertical-align: inherit;">李浩源的</font></font><a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-29.pdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论文中找到。</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本文描述了它在云计算中的用途，但基本概念可以转化为开放的消费者软件。</font></font></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-motivation" class="anchor" aria-hidden="true" tabindex="-1" href="#motivation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">动机</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们中的许多人都有多个云帐户、未备份的驱动器以及存在丢失风险的数据。</font><font style="vertical-align: inherit;">我们依赖 Google Photos 和 iCloud 等云服务，但容量有限，服务和操作系统之间的互操作性几乎为零。</font><font style="vertical-align: inherit;">相册不应该被困在设备生态系统中，也不应该被收集来获取广告数据。</font><font style="vertical-align: inherit;">它们应该与操作系统无关、永久且为个人所有。</font><font style="vertical-align: inherit;">我们创建的数据是我们的遗产，它将比我们更长久地存在——开源技术是确保我们对定义我们生活的数据保持绝对控制的唯一方法，且规模不受限制。</font></font></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处查看我们计划的功能列表：</font></font><a href="https://spacedrive.com/roadmap" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">spacedrive.com/roadmap</font></font></a></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-developer-guide" class="anchor" aria-hidden="true" tabindex="-1" href="#developer-guide"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者指南</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/spacedriveapp/spacedrive/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解如何从源安装 Spacedrive。</font></font></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-security-policy" class="anchor" aria-hidden="true" tabindex="-1" href="#security-policy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全政策</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/spacedriveapp/spacedrive/blob/main/SECURITY.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全政策，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关如何负责任地报告安全漏洞或问题的详细信息和信息。</font></font></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-architecture" class="anchor" aria-hidden="true" tabindex="-1" href="#architecture"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建筑学</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个项目使用的是我所说的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“PRRTT”</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">堆栈（Prisma、Rust、React、TypeScript、Tauri）。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prisma 在前端？</font><font style="vertical-align: inherit;">🤯 感谢</font><a href="https://github.com/brendonovich"><font style="vertical-align: inherit;">Brendonovich</font></a><font style="vertical-align: inherit;">开发的</font></font><a href="https://github.com/brendonovich/prisma-client-rust"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">prisma-client-rust</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使之成为可能。</font><font style="vertical-align: inherit;">使我们能够访问开发中强大的迁移 CLI，以及我们架构的 Prisma 语法。</font><font style="vertical-align: inherit;">该应用程序与 Prisma 查询引擎和代码生成器捆绑在一起，提供了一个漂亮的 Rust API。</font><font style="vertical-align: inherit;">我们的轻量级迁移运行程序是为桌面应用程序上下文定制的。</font></font><a href="https://github.com/brendonovich"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tauri 允许我们创建一个纯 Rust 原生操作系统 webview，而不需要普通 Electron 应用程序的开销。</font><font style="vertical-align: inherit;">这使得包大小和平均内存使用量显着下降。</font><font style="vertical-align: inherit;">它还有助于营造更原生的感觉，尤其是在 macOS 上，因为 Safari 与操作系统紧密集成。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们还使用</font></font><a href="https://rspc.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rspc</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，它允许我们在 Rust 中定义函数，并以完全类型安全的方式在 Typescript 前端调用它们，因此不会出现不必要的错误！</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心 ( </font></font><code>sdcore</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">) 是用纯 Rust 编写的。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-monorepo-structure" class="anchor" aria-hidden="true" tabindex="-1" href="#monorepo-structure"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monorepo结构：</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-apps" class="anchor" aria-hidden="true" tabindex="-1" href="#apps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用：</font></font></h3>
+<ul dir="auto">
+<li><code>desktop</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://tauri.app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tauri</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序。</font></font></li>
+<li><code>mobile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：一个</font></font><a href="https://reactnative.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序。</font></font></li>
+<li><code>web</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：一个</font></font><a href="https://reactjs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络应用程序。</font></font></li>
+<li><code>landing</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font><font style="vertical-align: inherit;">使用 Vite SSR 和 Vite 页面的</font></font><a href="https://reactjs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React应用程序。</font></font></a><font style="vertical-align: inherit;"></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-core" class="anchor" aria-hidden="true" tabindex="-1" href="#core"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核：</font></font></h3>
+<ul dir="auto">
+<li><code>core</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://www.rust-lang.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rust</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心，内部称为</font></font><code>sdcore</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">包含文件系统、数据库和网络逻辑。</font><font style="vertical-align: inherit;">可以部署在各种主机应用程序中。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-packages" class="anchor" aria-hidden="true" tabindex="-1" href="#packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">套餐：</font></font></h3>
+<ul dir="auto">
+<li>
+<p dir="auto"><code>client</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：一个</font></font><a href="https://www.typescriptlang.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TypeScript</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">客户端库，用于通过 UI 和 Rust 核心之间的 RPC 处理数据流。</font></font></p>
+</li>
+<li>
+<p dir="auto"><code>ui</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://reactjs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">共享组件库。</font></font></p>
+</li>
+<li>
+<p dir="auto"><code>interface</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：React 中的完整用户界面（由应用程序</font></font><code>desktop</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>web</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>landing</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）使用</font></font></p>
+</li>
+<li>
+<p dir="auto"><code>config</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><code>eslint</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置（包括</font></font><code>eslint-config-next</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，以及</font><font style="vertical-align: inherit;">整个 monorepo 中使用的</font></font><code>eslint-config-prettier</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有配置）。</font></font><code>tsconfig.json</code><font style="vertical-align: inherit;"></font></p>
+</li>
+<li>
+<p dir="auto"><code>macos</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：用于 MacOS 系统扩展的</font></font><a href="https://developer.apple.com/swift/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Swift</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Native 二进制文件。</font></font></p>
+</li>
+<li>
+<p dir="auto"><code>ios</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://developer.apple.com/swift/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Swift</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Native 二进制文件（计划中）。</font></font></p>
+</li>
+<li>
+<p dir="auto"><code>windows</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C#</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Native 二进制文件（计划中）。</font></font></p>
+</li>
+<li>
+<p dir="auto"><code>android</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://kotlinlang.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kotlin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Native 二进制文件（计划中）。</font></font></p>
+</li>
+</ul>
+</article></div>
